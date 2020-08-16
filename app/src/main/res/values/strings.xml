@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SEFY</string>
+    <string name="facebook_app_id">id из фейсбука</string>
+    <string name="facebook_login_protocol_scheme">fb+id из фейсбука</string>
+</resources>
